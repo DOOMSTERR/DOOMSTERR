@@ -1,12 +1,12 @@
-<img src="https://cdn-images-1.medium.com/max/800/1*qi_Mszpm2l-HeCJe63O-_A.png" alt="A" class="center">
-
 ![](https://cdn-images-1.medium.com/max/800/1*qi_Mszpm2l-HeCJe63O-_A.png)
 
 ![Hello](Hello.gif)
-
 # Abhishek
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DOOOMSTERR&label=Views&color=blue&style=plastic" alt="Abhishek Kumar" /> </p>
 
+My name is Abhishek Kumar and I'm a B.tech(3rd yr) student. I'm from delhi, living in Noida.
+
+You can find me on
 <br>
  <br>
  <a href="https://twitter.com/_Abhishek_k10">
@@ -37,9 +37,9 @@
 
 
 # 🧐 About Me
-- 🌱 **I am currently an CodingBlocks Ambassador**
+- 🌱 **I am currently an CodingBlocks Ambassador.**
 
-- **I'm good Blogging⌨️, Techinical writing✏️, and Scripiting languages📜.**
+- 🛠️ **I'm good Blogging⌨️, Techinical writing✏️, and Scripiting languages📜.**
 
 - 💻 **I’m currently working on**
 #### ![](https://img.shields.io/badge/C%20programming-%F0%9F%8C%80-orange)  ![](https://img.shields.io/badge/C%2B%2B-%F0%9F%8C%8C-yellow) ![](https://img.shields.io/badge/Dart-%F0%9F%8E%AF-success)  ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue) 
@@ -60,6 +60,7 @@
 # 🐾 My Github Stats 📊
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)〰️〰️〰️〰️[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=12&layout=compact&theme=shades-of-purple&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
 
+#### ![](https://img.shields.io/badge/C%20programming-%F0%9F%8C%80-orange) ![](https://img.shields.io/badge/Dart-%F0%9F%8E%AF-success)  ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue)  ![](https://img.shields.io/badge/App%20Dev.-%F0%9F%93%B1-blueviolet)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=12&theme=buefy&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
 
