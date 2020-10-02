@@ -26,7 +26,7 @@ You can find me on
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - 💬 **Ask me about anything :)** 
 
-- 🏄‍**I'm a community guy who likes being a of different dev. communities and meetups.**
+- 🏄‍**I'm a community guy who likes being a part of different dev. communities and meetups.**
 
 - **😄 I would love to be a part of hackathons as a Participants or an Organiser.**
 
