@@ -50,7 +50,6 @@ You can find me on
 ![Gmail Badge](https://img.shields.io/badge/-abhishek_kumar_007@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek_kumar_007@yahoo.com)
 
 [![Twitter: Abhishek](https://img.shields.io/twitter/follow/_Abhishek_k10?style=social)](https://twitter.com/_Abhishek_k10)
-
 [![Linkedin: Abhishek](https://img.shields.io/badge/-Abhisek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-k-371076b8/)](https://www.linkedin.com/in/abhishek-k-371076b8/)
 [![GitHub Abhishek](https://img.shields.io/github/followers/DOOMSTERR?label=follow&style=social)](https://github.com/DOOMSTERR)
 
