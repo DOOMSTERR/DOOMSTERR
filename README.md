@@ -40,7 +40,7 @@
 
 - 🔭 ***I’m currently working on***
 
- ####      ![](https://img.shields.io/badge/Machine%20Learning-%7C-blue) ![](https://img.shields.io/badge/Flutter%20-|-blue) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/Java-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  
+ #### ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue) 
 
 - 📫 **Reach me out on:** ![Gmail Badge](https://img.shields.io/badge/-abhishek_kumar_007@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek_kumar_007@yahoo.com)
 
