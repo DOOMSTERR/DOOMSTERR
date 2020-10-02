@@ -17,9 +17,9 @@
 <br>
 <br>
 
+
+
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-
 - 💬 **Ask me about anything :)** 
 
 - 🏄‍**I'm a community guy who likes being a of different dev. communities and meetups.**
@@ -33,15 +33,15 @@
 
 
 # 🧐 About Me
-
 - 🌱 **I am currently an CodingBlocks Ambassador**
 
 - **I'm good Blogging⌨️, Techinical writing✏️, and Scripiting languages📜.**
 
 - 💻 **I’m currently working on**
-#### ![](https://img.shields.io/badge/C%20programming-%F0%9F%8C%80-orange)  ![](https://img.shields.io/badge/C%2B%2B-%F0%9F%8C%8C-yellow) ![](https://img.shields.io/badge/Dart-%F0%9F%8E%AF-success)  ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue)  ![](https://img.shields.io/badge/Firebase-%F0%9F%94%A5-brightgreen)  ![](https://img.shields.io/badge/App%20Dev.-%F0%9F%93%B1-blueviolet)  ![](https://img.shields.io/badge/Google%20Cloud%20Platform-%E2%98%81%EF%B8%8F-9cf)
+#### ![](https://img.shields.io/badge/C%20programming-%F0%9F%8C%80-orange)  ![](https://img.shields.io/badge/C%2B%2B-%F0%9F%8C%8C-yellow) ![](https://img.shields.io/badge/Dart-%F0%9F%8E%AF-success)  ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue) 
+![](https://img.shields.io/badge/Firebase-%F0%9F%94%A5-brightgreen)  ![](https://img.shields.io/badge/App%20Dev.-%F0%9F%93%B1-blueviolet)  ![](https://img.shields.io/badge/Google%20Cloud%20Platform-%E2%98%81%EF%B8%8F-9cf)
 
-- 📫 **Reach me out on:** 
+- 📫 **Reach me out on 👇** 
 
 ![Gmail Badge](https://img.shields.io/badge/-abhishek_kumar_007@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek_kumar_007@yahoo.com)
 
@@ -53,9 +53,8 @@
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=12&layout=compact&theme=shades-of-purple&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
+# 🐾 My Github Stats 📊
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)〰️〰️〰️〰️[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=12&layout=compact&theme=shades-of-purple&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=12&theme=buefy&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
