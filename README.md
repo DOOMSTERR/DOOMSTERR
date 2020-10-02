@@ -41,13 +41,18 @@
 - 💻 **I’m currently working on**
 #### ![](https://img.shields.io/badge/C%20programming-%F0%9F%8C%80-orange)  ![](https://img.shields.io/badge/C%2B%2B-%F0%9F%8C%8C-yellow) ![](https://img.shields.io/badge/Dart-%F0%9F%8E%AF-success)  ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue)  ![](https://img.shields.io/badge/Firebase-%F0%9F%94%A5-brightgreen)  ![](https://img.shields.io/badge/App%20Dev.-%F0%9F%93%B1-blueviolet)  ![](https://img.shields.io/badge/Google%20Cloud%20Platform-%E2%98%81%EF%B8%8F-9cf)
 
-- 📫 **Reach me out on:** ![Gmail Badge](https://img.shields.io/badge/-abhishek_kumar_007@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek_kumar_007@yahoo.com)
+- 📫 **Reach me out on:** 
+
+![Gmail Badge](https://img.shields.io/badge/-abhishek_kumar_007@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek_kumar_007@yahoo.com)
 
 [![Twitter: Abhishek](https://img.shields.io/twitter/follow/_Abhishek_k10?style=social)](https://twitter.com/_Abhishek_k10)
 
 [![Linkedin: Abhishek](https://img.shields.io/badge/-Abhisek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-k-371076b8/)](https://www.linkedin.com/in/abhishek-k-371076b8/)
 
 [![GitHub Abhishek](https://img.shields.io/github/followers/DOOMSTERR?label=follow&style=social)](https://github.com/DOOMSTERR)
+
+
+
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=12&layout=compact&theme=shades-of-purple&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
