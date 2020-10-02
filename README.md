@@ -30,18 +30,18 @@ You can find me on
 
 - **😄 I would love to be a part of hackathons as a Participants or an Organiser.**
 
-- 👯 **I’m looking to collaborate on differnt projects of Flutter & Google cloud.**
+- 👯 **I’m looking forward to collaborate on differnt projects of Flutter & Google cloud.**
 
 - ⚡ **Fun fact : Decaf and laptop is all I need!**
 
 
 
 # 🧐 About Me
-- 🌱 **I am currently an CodingBlocks Ambassador.**
+- 🌱 **I am currently CodingBlocks Ambassador.
 
-- 🛠️ **I'm good Blogging⌨️, Techinical writing✏️, and Scripiting languages📜.**
+- 🛠️ **I also write Blogs⌨️, I'm a techinical writer✏️, and have good knowledge of scripiting languages📜.**
 
-- 💻 **I’m currently working on**
+- 💻 **I’m currently working with**
 #### ![](https://img.shields.io/badge/C%20programming-%F0%9F%8C%80-orange)  ![](https://img.shields.io/badge/C%2B%2B-%F0%9F%8C%8C-yellow) ![](https://img.shields.io/badge/Dart-%F0%9F%8E%AF-success)  ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue) 
 ![](https://img.shields.io/badge/Firebase-%F0%9F%94%A5-brightgreen)  ![](https://img.shields.io/badge/App%20Dev.-%F0%9F%93%B1-blueviolet)  ![](https://img.shields.io/badge/Google%20Cloud%20Platform-%E2%98%81%EF%B8%8F-9cf)
 
