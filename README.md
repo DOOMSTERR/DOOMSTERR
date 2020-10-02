@@ -52,15 +52,11 @@ You can find me on
 [![Twitter: Abhishek](https://img.shields.io/twitter/follow/_Abhishek_k10?style=social)](https://twitter.com/_Abhishek_k10)
 
 [![Linkedin: Abhishek](https://img.shields.io/badge/-Abhisek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-k-371076b8/)](https://www.linkedin.com/in/abhishek-k-371076b8/)
-
 [![GitHub Abhishek](https://img.shields.io/github/followers/DOOMSTERR?label=follow&style=social)](https://github.com/DOOMSTERR)
 
 
 
 # 🐾 My Github Stats 📊
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)〰️〰️〰️〰️[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=12&layout=compact&theme=shades-of-purple&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)〰️〰️〰️〰️[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=12&layout=compact&theme=buefy&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
 
-#### ![](https://img.shields.io/badge/C%20programming-%F0%9F%8C%80-orange) ![](https://img.shields.io/badge/Dart-%F0%9F%8E%AF-success)  ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue)  ![](https://img.shields.io/badge/App%20Dev.-%F0%9F%93%B1-blueviolet)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=12&theme=buefy&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
 
