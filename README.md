@@ -56,8 +56,7 @@ You can find me on
 
 
 # 🐾 My Github Stats 📊
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)〰️〰️[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&langs_count=3&theme=shades-of-purple&show_icons=true)](https://github.com/DOOMSTERR/github-readme-stats)
-
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&layout=compact&langs_count=8&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
