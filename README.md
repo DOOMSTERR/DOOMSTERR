@@ -28,7 +28,7 @@ You can find me on
 
 - 🏄‍**I'm a community guy who likes being a part of different dev. communities and meetups.**
 
-- **😄 I would love to be a part of hackathons as a Participants or an Organiser.**
+- **😄 I would love to be a part of hackathons as an Organiser.**
 
 - 👯 **I’m looking forward to collaborate on differnt projects of Flutter & Google cloud.**
 
@@ -37,7 +37,7 @@ You can find me on
 
 
 # 🧐 About Me
-- 🌱 **I am currently CodingBlocks Ambassador.
+- 🌱 **I am currently CodingBlocks Ambassador.**
 
 - 🛠️ **I also write Blogs⌨️, I'm a techinical writer✏️, and have good knowledge of scripiting languages📜.**
 
