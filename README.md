@@ -1,4 +1,4 @@
-![](https://cdn-images-1.medium.com/max/800/1*qi_Mszpm2l-HeCJe63O-_A.png)
+![](file:///C:/Users/abhis/Desktop/RBG/why.jpeg)
 
 ![Hello](Hello.gif)
 # Abhishek
