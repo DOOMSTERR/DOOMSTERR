@@ -1,4 +1,4 @@
-![](file:///C:/Users/abhis/Desktop/RBG/why.jpeg)
+![](Abhishek kumar(1).png)
 
 ![Hello](Hello.gif)
 # Abhishek
