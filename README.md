@@ -53,10 +53,12 @@ You can find me on
 [![Linkedin: Abhishek](https://img.shields.io/badge/-Abhisek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-k-371076b8/)](https://www.linkedin.com/in/abhishek-k-371076b8/)
 [![GitHub Abhishek](https://img.shields.io/github/followers/DOOMSTERR?label=follow&style=social)](https://github.com/DOOMSTERR)
 
-
+# My Badges
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 # 🐾 My Github Stats 📊
+
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&layout=compact&langs_count=8&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DOOMSTERR&count_private=true&theme=radical" alt="mostlypanda">
 
