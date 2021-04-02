@@ -6,7 +6,7 @@
 
 My name is Abhishek Kumar and I'm a B.tech(3rd yr) student. I'm from delhi, living in Noida.
 
-You can find me on
+Connect with me on 👇🏻 
 <br>
  <br>
  <a href="https://twitter.com/_Abhishek_k10">
@@ -20,8 +20,6 @@ You can find me on
 </a>
 <br>
 <br>
-
-
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - 💬 **Ask me about anything :)** 
