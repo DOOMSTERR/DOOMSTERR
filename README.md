@@ -6,7 +6,7 @@
 
 My name is Abhishek Kumar and I'm a B.tech(3rd yr) student. I'm from delhi, living in Noida.
 
-Connect with me on 👇🏻 
+Connect with me on👇🏻 
 <br>
  <br>
  <a href="https://twitter.com/_Abhishek_k10">
