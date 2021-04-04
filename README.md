@@ -28,7 +28,7 @@ Connect with me on👇🏻
 
 - **😄 I would love to be a part of hackathons as an Organiser.**
 
-- 👯 **I’m looking forward to collaborate on differnt projects of Flutter & Google cloud.**
+- 👯 **I’m looking forward to collaborate on differnt flutter projects.**
 
 - ⚡ **Fun fact : Decaf and laptop is all I need!**
 
@@ -37,7 +37,7 @@ Connect with me on👇🏻
 # 🧐 About Me
 - 🌱 **I am currently CodingBlocks Ambassador.**
 
-- 🛠️ **I also write Blogs⌨️, I'm a techinical writer✏️, and have good knowledge of scripiting languages📜.**
+- 🛠️ **I'm a Blogger⌨️ & a techinical writer✏️.**
 
 - 💻 **I’m currently working with**
 #### ![](https://img.shields.io/badge/C%20programming-%F0%9F%8C%80-orange)  ![](https://img.shields.io/badge/C%2B%2B-%F0%9F%8C%8C-yellow) ![](https://img.shields.io/badge/Dart-%F0%9F%8E%AF-success)  ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue) 
