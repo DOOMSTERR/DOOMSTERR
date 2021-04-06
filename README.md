@@ -51,7 +51,7 @@ Connect with me on👇🏻
 [![Linkedin: Abhishek](https://img.shields.io/badge/-Abhisek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-k-371076b8/)](https://www.linkedin.com/in/abhishek-k-371076b8/)
 [![GitHub Abhishek](https://img.shields.io/github/followers/DOOMSTERR?label=follow&style=social)](https://github.com/DOOMSTERR)
 
-# My Badges
+# 🏷️My Badges
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 # 🐾 My Github Stats 📊
