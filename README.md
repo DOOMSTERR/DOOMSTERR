@@ -3,7 +3,7 @@
 # Abhishek
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DOOOMSTERR&label=Views&color=blue&style=plastic" alt="Abhishek Kumar" /> </p>
 
-My name is Abhishek Kumar and I'm a B.tech(3rd yr) student. I'm from delhi, living in Noida.
+My name is Abhishek Kumar and I'm a B.tech pre-final year student.
 Connect with me on👇🏻 
 <br>
  <br>
@@ -20,8 +20,7 @@ Connect with me on👇🏻
 <br>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-- 💬 **Ask me about anything :)** 
-
+ 
 - 🏄‍**I'm a community guy who likes being a part of different dev. communities and meetups.**
 
 - **😄 I would love to be a part of hackathons as an Organiser.**
@@ -33,11 +32,13 @@ Connect with me on👇🏻
 
 
 # 🧐 About Me
+
 - 🌱 **I am currently CodingBlocks Ambassador.**
 
 - 🛠️ **I'm a Blogger⌨️ & a techinical writer✏️.**
 
 - 💻 **I’m currently working with**
+
 #### ![](https://img.shields.io/badge/C%20programming-%F0%9F%8C%80-orange)  ![](https://img.shields.io/badge/C%2B%2B-%F0%9F%8C%8C-yellow) ![](https://img.shields.io/badge/Dart-%F0%9F%8E%AF-success)  ![](https://img.shields.io/badge/Flutter-%E2%98%84%EF%B8%8F-blue) 
 ![](https://img.shields.io/badge/Firebase-%F0%9F%94%A5-brightgreen)  ![](https://img.shields.io/badge/App%20Dev.-%F0%9F%93%B1-blueviolet)  ![](https://img.shields.io/badge/Google%20Cloud%20Platform-%E2%98%81%EF%B8%8F-9cf)
 
