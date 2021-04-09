@@ -1,10 +1,9 @@
-![](abhi.png)
-
 ![Hello](Hello.gif)
+
 # Abhishek
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DOOOMSTERR&label=Views&color=blue&style=plastic" alt="Abhishek Kumar" /> </p>
 
 My name is Abhishek Kumar and I'm a B.tech(3rd yr) student. I'm from delhi, living in Noida.
-
 Connect with me on👇🏻 
 <br>
  <br>
