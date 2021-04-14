@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DOOOMSTERR&label=Views&color=blue&style=plastic" alt="Abhishek Kumar" /> </p>
 
 My name is Abhishek Kumar and I'm a B.tech pre-final year student.
-Connect with me on👇🏻 
+Connect with me on
 <br>
  <br>
  <a href="https://twitter.com/_Abhishek_k10">
